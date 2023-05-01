@@ -1,5 +1,6 @@
 #3] Assignment operators: use to assign a value to variable.
-#1. assignment operator "="
+
+#1. assignment operator "=" : it assign value to a variable
 a=66
 b=7-9j
 c=99.7
