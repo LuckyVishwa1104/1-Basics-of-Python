@@ -1,4 +1,5 @@
-# String Operator.
+#7] String Operator - there are two operator that can be performed on string
+
 '''1. concatenation - "+"
 use to add two or more string'''
 str1="Hello"
@@ -9,6 +10,7 @@ print(str1+str1+str2)
 print(str3+str2)
 print(str1+str3)
 print(str1+"holla")
+
 '''2. repetition - "*"
 use to repete a string.'''
 str1="Hello"

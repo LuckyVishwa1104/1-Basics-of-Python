@@ -1,4 +1,5 @@
-# Identity Operator :- used to check whether operands has same memory location.
+#6] Identity Operator :- used to check whether operands has same memory location. It return either true or false value
+
 #1. "is" operator.
 a="wonderful"
 b=99.96
@@ -12,6 +13,7 @@ print(color is color1)
 print(d is b)
 print(d is d)
 print()
+
 #2. "is not" operator
 p=56
 q="happy"
