@@ -33,6 +33,7 @@ $_dollar=728   >> these types of identifiers are not allowed'''
   assert=888   >> these types of identifiers are also not allowed.'''
   
 # Rule-5: name and NAME are different as python is case sensitive.
+# case sensitive implies that 'a' and 'A' are different as they are analysed basedd on ASCII value.
 '''number=772  =/  NUMBER=772
   name="Ryuga"  =/  NAME="Ryuga" '''
   
