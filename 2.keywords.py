@@ -6,7 +6,7 @@ import keyword
 print(keyword.kwlist)
 print()
 
-# 35 keywords.
+# following are the 35 keywords available in python.
 print('''if , elif , else , for , while ,
 pass , continue , break, True, False,
 and , or , not , from , with ,
