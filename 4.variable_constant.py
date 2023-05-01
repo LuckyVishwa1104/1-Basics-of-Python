@@ -10,8 +10,7 @@ print(number)
 _money=256000
 print(_money)
 '''(variable) = (value)
-~Variable = combination of A to Z, a to z,
-                    _ , 0 to 9  
+~Variable = combination of A to Z, a to z, _ , 0 to 9  
 ~Value = input, print, another variable, expression, all data-types .'''
 
 # 1.We can assign one value to one variable
