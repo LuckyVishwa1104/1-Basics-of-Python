@@ -1,4 +1,4 @@
-# indentation ":" used to separate the block of code.
+#8] indentation ":" used to separate the block of code.
 num=int(input())
 sum=0
 for i in range(num+1):

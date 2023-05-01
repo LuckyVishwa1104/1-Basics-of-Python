@@ -1,4 +1,4 @@
-#6] Data-types :- types of data stored in variable
+#5] Data-types :- types of data stored in variable
 # type( ) function is used to identify the data-type.
 
 # Numeric datatype :- holds numeric values.

@@ -1,4 +1,4 @@
-#7]. Input - input() function is used to input the data from keyboard or to take input from the users
+#6]. Input - input() function is used to input the data from keyboard or to take input from the users
 
 # everything taken from input function is in the form of "string data-type"
 

@@ -1,4 +1,4 @@
-#8]. print() function - used to display the output on console (output window).
+#7]. print() function - used to display the output on console (output window).
 ''' Syntax:
 	   print(parameters) '''
 # parameter - all data-type, variables, experssion, input.
