@@ -3,7 +3,7 @@ Basics-of-Python
 This is a repository consisting of Introduction to all the concepts required to get started with Python. 
 It contain basic introduction of each topic and examples on each topic for clear understanding. 
 All the the concepts are well structured and arranged accordingly. 
-Anyone, wanted to start with Programing or Python can go with this repository. 
+Anyone, wanted to start with Python or Programming can go with this repository. 
 
 It cantains sample program for several topics in Python to get insights of working of Python programming language.
 It consist of Overall, ten Files covering all th etopics of Basics.
